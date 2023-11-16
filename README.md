@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NikolaJocic4
-- 👀 I’m interested in Web, UX & UI.
-- 🌱 I’m currently learning a bit of everything!
+- 👀 I’m interested in a lot!
+- 🌱 I’m currently pursuing an undergraduate thesis!
 - 📫 How to reach me: jocicnikola11@gmail.com
 
 <!---
